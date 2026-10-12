@@ -1,7 +1,7 @@
-﻿{
-    "date":  "12.10.2026",
-    "title":  "v2.1.1 - CanlÄ± Otomatik GÃ¼ncelleme Test SÃ¼rÃ¼mÃ¼",
-    "version":  "2.1.1",
-    "downloadUrl":  "https://raw.githubusercontent.com/mehmetsinangunay/msg-yazilim/main/update.zip",
-    "notes":  "â€¢ Otomatik gÃ¼ncelleme sistemi baÅŸarÄ±yla doÄŸrulandÄ± ve Ã§alÄ±ÅŸÄ±yor!\nâ€¢ WhatsApp Resim (JPG) ve PDF fiÅŸ paylaÅŸÄ±mÄ± aktif\nâ€¢ Dokunmatik mobil sepet arayÃ¼zÃ¼ ve terazi optimizasyonu"
+{
+  "notes": "• Otomatik güncelleme sistemi başarıyla doğrulandı ve çalışıyor!\n• WhatsApp Resim (JPG) ve PDF fiş paylaşımı aktif\n• Dokunmatik mobil sepet arayüzü ve terazi optimizasyonu",
+  "downloadUrl": "https://raw.githubusercontent.com/mehmetsinangunay/msg-yazilim/main/update.zip",
+  "date": "12.10.2026",
+  "title": "v2.1.1 - Canlı Otomatik Güncelleme Test Sürümü",
+  "version": "2.1.1"
 }
