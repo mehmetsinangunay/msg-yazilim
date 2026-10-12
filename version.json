@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
-  "title": "v2.1.4 - Otomatik Kapanıp Açılma Testi",
+  "version": "2.1.5",
+  "title": "v2.1.5 - Otomatik Kapanıp Açılma Testi",
   "date": "12.10.2026",
-  "notes": "• Güncelleme sonrası programın otomatik kapanıp yeniden açılması doğrulandı!\n• Sıfır veri kaybı ile güvenli güncelleme motoru devrede.",
+  "notes": "• Güncelleme sonrası programın X tuşuna basılmış gibi nazikçe kapanıp otomatik yeniden açılması devrede!\n• Sıfır veri kaybı ile güvenli güncelleme motoru devrede.",
   "downloadUrl": "https://raw.githubusercontent.com/mehmetsinangunay/msg-yazilim/main/update.zip"
 }
